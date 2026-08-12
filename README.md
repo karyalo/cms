@@ -1,12 +1,12 @@
-# Karyalo Manage (CMS) — Demo
+# Karyalo Manage (CMS) — Alina Adaptation Demo
 
-Demo backoffice untuk mengelola produk, harga, promo, pelanggan, konten Store, tim, dan konfigurasi integrasi.
+Pecahan backoffice dari `Alina_ecommerce/admin_dashboard`: Ringkasan, Katalog Produk, Pelanggan, Voucher, Tampilan Situs, dan Kelola Admin.
 
 ## Cakupan demo
 
 - Dashboard owner dan activity trail.
-- CRUD katalog produk dengan publish simulation.
-- Promosi, customer view, content editor, team roles, dan settings.
+- CRUD katalog dengan field warehouse dan lima tier harga Alina.
+- Voucher publik/targeted, customer tier, brand tokens, team roles, dan settings.
 - Cross-link ke Store, Stock/OMS, POS, dan Finance.
 
 ## Jalankan
@@ -15,4 +15,4 @@ Demo backoffice untuk mengelola produk, harga, promo, pelanggan, konten Store, t
 npm start
 ```
 
-Port default: `3102`. Semua data bersifat simulasi.
+Port default: `3102`. Lihat [`ALINA_ADAPTATION.md`](./ALINA_ADAPTATION.md). Semua data bersifat simulasi.
