@@ -8,6 +8,7 @@ Pecahan backoffice dari `Alina_ecommerce/admin_dashboard`: Ringkasan, Katalog Pr
 - CRUD katalog dengan field warehouse dan lima tier harga Alina.
 - Voucher publik/targeted, customer tier, brand tokens, team roles, dan settings.
 - Cross-link ke Store, Stock/OMS, POS, dan Finance.
+- Import/export katalog, CRUD pelanggan/voucher/team, review kemitraan B2B, monitoring, konten Store, dan aturan COD/fulfillment.
 
 ## Jalankan
 
